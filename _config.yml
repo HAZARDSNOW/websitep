@@ -13,7 +13,7 @@
 title: My website
 
 # Your name to show in the footer
-author: Some Person
+author: Hazard Snow
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -52,36 +52,36 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
+  facebook: hidro
+  github: hidro
+  twitter: hidro
+  patreon: hidro
+  youtube: "@hidro"
+  whatsapp: +98993xxxxxxxx
+#  medium: Hazard
+#  reddit: Hazard
+#  linkedin: hidro
+#  xing: xdhidro
+#  stackoverflow: "3943160/hazard"
+#  snapchat: Not exist
+#  instagram: mmmhhmm1233
+#  spotify: hazardsnow
+#  telephone: +98993xxxxxx
+#  steam: bassseee
+#  twitch: base dige
+#  yelp: ay baba
+#  telegram: Pv_hidro
+#  calendly: hidro
+#  mastodon: instance.url/@mioooo
+#  bluesky: mioooo
+#  ORCID: 123456
+#  google-scholar: https://hazardsnow.github.io/pweb/
+#  discord: https://hazardsnow.github.io/pweb/
+#  kaggle: https://hazardsnow.github.io/pweb/
+#  hackerrank: https://hazardsnow.github.io/pweb/
+#  gitlab: https://hazardsnow.github.io/pweb/
+#  itchio: https://hazardsnow.github.io/pweb/
+#  untappd: https://hazardsnow.github.io/pweb/
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
